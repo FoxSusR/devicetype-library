@@ -1268,6 +1268,10 @@
 "device-types/Apple/A2304.yaml"
 ],
 [
+"ar8425a",
+"device-types/APC/AR8425A.yaml"
+],
+[
 "arbor-tms-hd-1000",
 "device-types/Arbor/TMS-HD-1000.yaml"
 ],
